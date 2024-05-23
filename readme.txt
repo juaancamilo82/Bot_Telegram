@@ -5,6 +5,8 @@
 3. Cómo obtener el bot_token y bot_chatId? Sigue la siguiente guía
 https://medium.com/@ManHay_Hong/how-to-create-a-telegram-bot-and-send-messages-with-python-4cf314d9fa3e
 
+4. corres el archivo: python main.py  
+
 Cualquier duda, contáctame 
 
 Correo: juaancamilo82@outlook.com
